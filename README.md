@@ -15,7 +15,7 @@ Built using HTML, CSS, and JavaScript for cross-platform compatibility
 
 ## How to Use
 
-1. Access the website by visiting https://example.com/sudoku-solver
+1. Access the website by visiting https://solve-sudoku.000webhostapp.com/
 2. Input the partially filled Sudoku puzzle in the designated input boxes
 3. Click on the "Solve" button to visualize the backtracking algorithm in action
 4. Follow the step-by-step guide to understand how the algorithm works to solve the puzzle
